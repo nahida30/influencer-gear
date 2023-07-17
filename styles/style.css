@@ -271,7 +271,7 @@ footer{
         width: 280px;
         height: 280px;
         background-size: 200px;
-        margin-top: 1px;
+        margin-top: -30px;
         padding-bottom: 20px;
         /* border: 1px solid black; */
     }
